@@ -1,4 +1,3 @@
-// Copyright 2019 ARAOvsepyan
 #pragma once
 
 #include <iostream>
